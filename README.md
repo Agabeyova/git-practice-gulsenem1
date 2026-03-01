@@ -1,1 +1,1 @@
-# Git Practice Layihesi - gulsenem
+Bu melumat feature-1 branch-inde elave edilib.
